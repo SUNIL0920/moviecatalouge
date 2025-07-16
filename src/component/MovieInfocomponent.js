@@ -93,5 +93,22 @@ const MovieInfocomponent=(props)=>{
         <Close onClick={()=>props.onMovieSelect()}>X</Close></>:"Loading..."}
     </Container>);
 
+
+
+
+
+
+
+
+
+
+
 };
 export default MovieInfocomponent;
+
+
+
+
+
+
+

@@ -8,6 +8,11 @@ export const API_KEY="27da3223";
 const Container = styled.div`
   display: flex;
   flex-direction: column;
+
+
+
+
+
   
 `;
 const Appname = styled.div`
@@ -104,5 +109,12 @@ function App() {
     </Container>
   );
 }
+
+
+
+
+
+
+
 
 export default App;
